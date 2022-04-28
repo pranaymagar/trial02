@@ -1,2 +1,4 @@
 hi 
 this is a.txt file
+
+this is new update 
